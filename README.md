@@ -52,9 +52,9 @@ This application was built using the MERN stack, including Node.js, Express, Mon
  This app applies: React, GraphQL, Mongoose, MongoDB, React-Boostrap
 
   ## Links 
-Link to website: https://young-shelf-43673.herokuapp.com/
+Link to website: https://fathomless-stream-46491.herokuapp.com
 
-Link to GitHub repo: https://github.com/travisramcharran/recipe-gen
+Link to GitHub repo: https://github.com/Samantha-Ruth/recipe-gen
 
   ## Credits
 [Travis Ramcharran](https://github.com/travisramcharran)
