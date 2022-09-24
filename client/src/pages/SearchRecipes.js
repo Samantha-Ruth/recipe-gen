@@ -40,7 +40,7 @@ const SearchRecipes = (props) => {
   // save recipe using graphql
   const [saveRecipe] = useMutation(SAVE_RECIPE);
   // Check if logged in
-  const { loading, data } = useQuery(GET_ME);
+  const { data } = useQuery(GET_ME);
   const user = data?.me;
   // removed loading from const { loading, data } since we aren't calling it... yet.
   const [savedRecipeIds, setSavedRecipeIds] = useState([]);
