@@ -64,6 +64,7 @@ const SearchRecipes = (props) => {
       variables: { ingredients: searchInput, page: 0 },
     });
 
+    console.log(data.getRecipe.recipes)
     if (data.getRecipe.recipes.length === 0) {
       setError(
         "No results - try entering fewer ingredients or check your spelling"
