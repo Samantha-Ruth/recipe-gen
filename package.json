@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/travisramcharran/recipe-gen.git"
+    "url": "git+https://github.com/Samantha-Ruth/supper-snacks.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/travisramcharran/recipe-gen/issues"
+    "url": "https://github.com/Samantha-Ruth/supper-snacks/issues"
   },
-  "homepage": "https://github.com/travisramcharran/recipe-gen#readme",
+  "homepage": "https://github.com/Samantha-Ruth/supper-snacks#readme",
   "devDependencies": {
     "concurrently": "^7.3.0"
   }
