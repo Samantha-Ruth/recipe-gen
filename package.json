@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Samantha-Ruth/supper-snacks/issues"
   },
-  "homepage": "https://github.com/Samantha-Ruth/supper-snacks#readme",
+  "homepage": ".",
   "devDependencies": {
     "concurrently": "^7.3.0"
   }
