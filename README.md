@@ -15,7 +15,7 @@ Compose a meal with what's left in your fridge!
   ## Description
   This app allows users to log in and search ingredients that they have on hand (or would like to cook with). Then the app returns several recipes that include those ingredients with the option to save each recipe to the user's dashboard. This also offers an inspirations page which will offer some random recipes to try out!
   
-This application was built using the MERN stack, including Node.js, Express, MongoDB, Mongoose and GraphQL as backend technologies, ApolloServer, and React as well as Javascript, React-Bootstrap framework and Css for front-end technologies.  The Tasty API was utilized for recipes.
+This application was built using the MERN stack, including Node.js, Express, MongoDB, Mongoose and GraphQL as backend technologies, ApolloServer, and React as well as Javascript, React-Bootstrap framework and css for front-end technologies.  The Tasty API was utilized for recipes. App was initially launched on Heroku but moved to Fly.io.
 
   
 ![Screen Shot 2022-09-22 at 7 05 50 PM](https://user-images.githubusercontent.com/64170123/191886654-85005008-d9cf-4d41-b9d2-2b31e5f8ed02.png)
@@ -53,7 +53,7 @@ This application was built using the MERN stack, including Node.js, Express, Mon
 
   ## Links 
   Initially deployed to Heroku, but migrated to Fly when Heroku freet-tier changed:
-Link to website: https://supper-scraps.fly.dev
+<br /> Link to website: https://supper-scraps.fly.dev
 
 Link to GitHub repo: https://github.com/Samantha-Ruth/recipe-gen
 
